@@ -1,0 +1,15 @@
+#id {
+    height: 300px;
+    width: 500px;
+    margin: 5px;
+    border: 10px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    outline: 10px solid green;
+}
+
+.classe {
+    background-color: rgba(10, 255, 10, 0.3);
+    color: #aaa;
+}
